@@ -4,47 +4,10 @@
 >
 > YouTube 影片：[English Listening Practice](https://www.youtube.com/watch?v=7I7vyKVmbMU)
 
-共 210 個句子，附中文翻譯、難度標注與真人發音連結。難度依字數估算（過於簡單者不設星），依難度排序。
+共 173 個句子（2-5 星），附中文翻譯、難度標注與真人發音連結。難度依字數估算，依難度排序。
 
 | # | 英文句子 | 中文翻譯 | 難度 | 真人發音 |
 |---|---------|---------|------|---------|
-| 1 | Good morning! | 早安 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Good%20morning&translate-direction=zh-tw) |
-| 3 | What’s for breakfast? | 早餐吃什麼 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20for%20breakfast&translate-direction=zh-tw) |
-| 9 | It’s raining outside. | 外面正在下雨 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=It%E2%80%99s%20raining%20outside&translate-direction=zh-tw) |
-| 20 | Let’s go shopping. | 我們一起去購物 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Let%E2%80%99s%20go%20shopping&translate-direction=zh-tw) |
-| 21 | I’m feeling tired. | 我感覺很累 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20feeling%20tired&translate-direction=zh-tw) |
-| 27 | What’s your name? | 你叫什麼名字 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20name&translate-direction=zh-tw) |
-| 32 | I’m so hungry. | 我好餓 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20so%20hungry&translate-direction=zh-tw) |
-| 51 | I’m studying English. | 我正在學英語 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20studying%20English&translate-direction=zh-tw) |
-| 54 | What’s your birthday? | 你的生日是什麼時候 |  | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20birthday&translate-direction=zh-tw) |
-| 2 | How are you today? | 你今天好嗎 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=How%20are%20you%20today&translate-direction=zh-tw) |
-| 5 | Have a great day! | 祝你有美好的一天 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Have%20a%20great%20day&translate-direction=zh-tw) |
-| 11 | What’s your favorite movie? | 你最喜歡的電影是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20movie&translate-direction=zh-tw) |
-| 17 | This coffee is delicious. | 這杯咖啡很好喝 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=This%20coffee%20is%20delicious&translate-direction=zh-tw) |
-| 19 | What time is it? | 現在幾點了 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%20time%20is%20it&translate-direction=zh-tw) |
-| 22 | What’s your favorite color? | 你最喜歡的顏色是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20color&translate-direction=zh-tw) |
-| 23 | I have a headache. | 我頭痛 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%20have%20a%20headache&translate-direction=zh-tw) |
-| 33 | How was your day? | 你今天過得怎麼樣 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=How%20was%20your%20day&translate-direction=zh-tw) |
-| 35 | Can you speak English? | 你會說英語嗎 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Can%20you%20speak%20English&translate-direction=zh-tw) |
-| 36 | What’s your phone number? | 你的電話號碼是多少 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20phone%20number&translate-direction=zh-tw) |
-| 39 | What’s your favorite food? | 你最喜歡的食物是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20food&translate-direction=zh-tw) |
-| 44 | What’s your favorite sport? | 你最喜歡的運動是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20sport&translate-direction=zh-tw) |
-| 47 | What’s your email address? | 你的電子郵件地址是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20email%20address&translate-direction=zh-tw) |
-| 50 | What’s your favorite book? | 你最喜歡的書是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20book&translate-direction=zh-tw) |
-| 55 | I’m feeling better now. | 我現在感覺好些了 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20feeling%20better%20now&translate-direction=zh-tw) |
-| 58 | What’s your favorite hobby? | 你最喜歡的愛好是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20hobby&translate-direction=zh-tw) |
-| 63 | I love to cook. | 我喜歡烹飪 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%20love%20to%20cook&translate-direction=zh-tw) |
-| 65 | I’m going on vacation. | 我要去度假 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20going%20on%20vacation&translate-direction=zh-tw) |
-| 74 | What’s your favorite song? | 你最喜歡的歌曲是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20song&translate-direction=zh-tw) |
-| 78 | What’s your favorite restaurant? | 你最喜歡的餐廳是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20restaurant&translate-direction=zh-tw) |
-| 83 | What’s your favorite holiday? | 你最喜歡的節日是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20holiday&translate-direction=zh-tw) |
-| 87 | What’s your favorite season? | 你最喜歡的季節是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20season&translate-direction=zh-tw) |
-| 93 | What’s your favorite animal? | 你最喜歡的動物是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20animal&translate-direction=zh-tw) |
-| 99 | What’s your favorite drink? | 你最喜歡的飲料是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20drink&translate-direction=zh-tw) |
-| 103 | What’s the Wi-Fi password? | Wi-Fi 密碼是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20the%20Wi-Fi%20password&translate-direction=zh-tw) |
-| 111 | What’s your favorite fruit? | 你最喜歡的水果是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20fruit&translate-direction=zh-tw) |
-| 116 | What’s your favorite season? | 你最喜歡的季節是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20season&translate-direction=zh-tw) |
-| 121 | What’s your favorite dessert? | 你最喜歡的甜點是什麼 | ★☆☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20your%20favorite%20dessert&translate-direction=zh-tw) |
 | 7 | I’m running late for work. | 我上班要遲到了 | ★★☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20running%20late%20for%20work&translate-direction=zh-tw) |
 | 8 | Where’s the nearest bus stop? | 最近的公車站在哪裡 | ★★☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Where%E2%80%99s%20the%20nearest%20bus%20stop&translate-direction=zh-tw) |
 | 12 | Can I borrow your pen? | 我可以借你的筆嗎 | ★★☆☆☆ | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Can%20I%20borrow%20your%20pen&translate-direction=zh-tw) |
