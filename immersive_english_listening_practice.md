@@ -9,16 +9,16 @@
 | # | 英文句子 | 中文翻譯 | 真人發音 |
 |---|---------|---------|---------|
 | 7 | I’m running late for work. | 我上班要遲到了 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20running%20late%20for%20work&translate-direction=zh-tw) |
-| 8 | Where’s the nearest bus stop? | 最近的公車站在哪裡 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Where%E2%80%99s%20the%20nearest%20bus%20stop&translate-direction=zh-tw) |
+| 8 | Where’s the nearest bus stop? | 最近的公車站在哪裡 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=the+nearest+bus+stop&translate-direction=zh-tw) |
 | 12 | Can I borrow your pen? | 我可以借你的筆嗎 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Can%20I%20borrow%20your%20pen&translate-direction=zh-tw) |
 | 13 | Let’s go for a walk. | 我們一起去散步吧 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Let%E2%80%99s%20go%20for%20a%20walk&translate-direction=zh-tw) |
 | 15 | I love to read books. | 我喜歡閱讀書籍 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%20love%20to%20read%20books&translate-direction=zh-tw) |
-| 16 | What’s the weather like today? | 今天天氣如何 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=What%E2%80%99s%20the%20weather%20like%20today&translate-direction=zh-tw) |
+| 16 | What’s the weather like today? | 今天天氣如何 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=the+weather+like+today&translate-direction=zh-tw) |
 | 24 | Do you like to travel? | 你喜歡旅行嗎 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Do%20you%20like%20to%20travel&translate-direction=zh-tw) |
 | 26 | I’m going to the gym. | 我要去健身房 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20going%20to%20the%20gym&translate-direction=zh-tw) |
-| 31 | Let’s watch a movie tonight. | 今晚我們看電影吧 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Let%E2%80%99s%20watch%20a%20movie%20tonight&translate-direction=zh-tw) |
+| 31 | Let’s watch a movie tonight. | 今晚我們看電影吧 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=watch+a+movie+tonight&translate-direction=zh-tw) |
 | 34 | I’m sorry for being late. | 對不起，我遲到了 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=I%E2%80%99m%20sorry%20for%20being%20late&translate-direction=zh-tw) |
-| 37 | Where is the nearest restroom? | 最近的洗手間在哪裡 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Where%20is%20the%20nearest%20restroom&translate-direction=zh-tw) |
+| 37 | Where is the nearest restroom? | 最近的洗手間在哪裡 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=where's+the+nearest+restroom&translate-direction=zh-tw) |
 | 40 | Do you have any siblings? | 你有兄弟姐妹嗎 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Do%20you%20have%20any%20siblings&translate-direction=zh-tw) |
 | 42 | Let’s go to the park. | 我們去公園吧 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Let%E2%80%99s%20go%20to%20the%20park&translate-direction=zh-tw) |
 | 45 | Can you give me directions? | 你能給我指路嗎 | [聆聽](https://www.playphrase.me/#/reels/en?source=favorites&q=Can%20you%20give%20me%20directions&translate-direction=zh-tw) |
